@@ -1,0 +1,6 @@
+com/hoenscanner/App.class
+com/hoenscanner/resources/SearchResource.class
+com/hoenscanner/HoenScannerConfiguration.class
+com/hoenscanner/HoenScannerApplication.class
+com/hoenscanner/core/SearchResult.class
+com/hoenscanner/core/Search.class
